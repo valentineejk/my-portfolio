@@ -14,7 +14,7 @@ const Technicals=() => {
         <div className="bg-white ">
             <div className="max-w-2xl mx-auto py-24 px-4  sm:px-6  lg:max-w-7xl ">
                 <div>
-                    <h2 className="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl text-center ">Tech Stack</h2>
+                    <h2 className="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl text-center font-Bungee ">Tech Stack</h2>
 
 
                 </div>

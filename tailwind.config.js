@@ -3,6 +3,10 @@ module.exports={
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
+    fontFamily: {
+      Bungee: ['Bungee Inline','cursive']
+
+    },
     container: {
       center: true,
     },
