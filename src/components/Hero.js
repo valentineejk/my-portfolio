@@ -18,9 +18,7 @@ const Hero=() => {
                 <p className='text-xs font-Bungee2 '>
                     Front-end Engineer | Swift | Flutter
                 </p>
-                <div className='py-6 W-24'>
-                    <button class=" rounded-full bg-stone-400 shadow-lg shadow-gray-500/50  text-sm font-Bungee2  px-3" href="https://wa.me/08055433901">Contact Me</button>
-                </div>
+
 
             </div>
 
@@ -35,4 +33,7 @@ const Hero=() => {
 export default Hero
 
 
-// grid grid-cols-3 gap-4 justify-items-center
+// grid grid-cols-3 gap-4 justify-items-center 
+// <div className='py-6 W-24 '>
+                //     <button href="google.com" class=" rounded-full bg-stone-400 shadow-lg shadow-gray-500/50  text-sm font-Bungee2  px-3">Contact Me</button>
+                // </div>
