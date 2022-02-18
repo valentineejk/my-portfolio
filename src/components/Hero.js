@@ -19,7 +19,7 @@ const Hero=() => {
                     Front-end Engineer | Swift | Flutter
                 </p>
                 <div className='py-6 W-24'>
-                    <button class=" rounded-full bg-stone-400 shadow-lg shadow-gray-500/50  text-sm font-Bungee2  px-3">Contact Me</button>
+                    <button class=" rounded-full bg-stone-400 shadow-lg shadow-gray-500/50  text-sm font-Bungee2  px-3" href="https://wa.me/08055433901">Contact Me</button>
                 </div>
 
             </div>
