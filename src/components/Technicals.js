@@ -20,11 +20,11 @@ const Technicals=() => {
                 </div>
 
                 <div className=' flex justify-center flex-row gap-4 h-16 sm:py-16 py-16' >
-                    <Swift className=" sm:w-24 sm:h-24  w-24 h-16 rounded-full shadow-inner hover:shadow-xl " />
-                    <Flutter className="sm:w-24 sm:h-24 w-24 h-16  rounded-full shadow-inner hover:shadow-xl" />
-                    <Reactj className="sm:w-24 sm:h-24 w-24 h-16  rounded-full shadow-inner hover:shadow-xl" />
-                    <Figma className=" sm:w-24 sm:h-24 w-24 h-16  rounded-full shadow-inner hover:shadow-xl" />
-                    <Fireb className="sm:w-24 sm:h-24 w-24 h-16   rounded-full shadow-inner hover:shadow-xl" />
+                    <Swift className=" sm:w-24 sm:h-24  w-24 h-14 rounded-full shadow-inner hover:shadow-xl " />
+                    <Flutter className="sm:w-24 sm:h-24 w-24 h-14  rounded-full shadow-inner hover:shadow-xl" />
+                    <Reactj className="sm:w-24 sm:h-24 w-24 h-14  rounded-full shadow-inner hover:shadow-xl" />
+                    <Figma className=" sm:w-24 sm:h-24 w-24 h-14  rounded-full shadow-inner hover:shadow-xl" />
+                    <Fireb className="sm:w-24 sm:h-24 w-24 h-14   rounded-full shadow-inner hover:shadow-xl" />
                 </div>
             </div>
 
