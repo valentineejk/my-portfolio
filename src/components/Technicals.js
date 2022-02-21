@@ -3,7 +3,6 @@ import React from 'react'
 import {ReactComponent as Swift} from '../img/swift.svg';
 import {ReactComponent as Flutter} from '../img/flutter.svg';
 import {ReactComponent as Reactj} from '../img/react.svg';
-import {ReactComponent as Fireb} from '../img/fireb.svg';
 import {ReactComponent as Figma} from '../img/figma.svg';
 
 
