@@ -4,7 +4,7 @@ import {ReactComponent as Swift} from '../img/swift.svg';
 import {ReactComponent as Reactj} from '../img/react.svg';
 import {ReactComponent as Figma} from '../img/figma.svg';
 import {ReactComponent as Firebee} from '../img/firebee.svg';
-import {ReactComponent as Nodejee} from '../img/Nodejee.svg';
+// import {ReactComponent as Nodejee} from '../img/Nodejee.svg';
 import {ReactComponent as Tailwin} from '../img/Tailwin.svg';
 
 
@@ -22,13 +22,13 @@ const Technicals=() => {
 
                 <div className=' grid sm:grid-cols-7 grid-cols-3 gap-4 place-content-center h-16 sm:py-8  py-8' >
                     <Swift className=" sm:w-28 sm:h-28  w-16 h-16 sm:rounded-full rounded-full shadow-inner  " />
-                    <Flutter className="sm:w-28 sm:h-28 w-16 h-16  rounded-full shadow-inner " />
+                    {/* <Flutter className="sm:w-28 sm:h-28 w-16 h-16  rounded-full shadow-inner " /> */}
                     <Reactj className="sm:w-28 sm:h-28 w-16 h-16  rounded-full shadow-inner " />
                     <Tailwin className=" sm:w-28 sm:h-28 w-16 h-16  rounded-full shadow-inner " />
 
                     <Figma className=" sm:w-28 sm:h-28 w-16 h-16  rounded-full shadow-inner " />
                     <Firebee className=" sm:w-28 sm:h-28 w-16 h-16  rounded-full shadow-inner " />
-                    <Nodejee className=" sm:w-28 sm:h-28 w-16 h-16  rounded-full shadow-inner " />
+                    {/* <Nodejee className=" sm:w-28 sm:h-28 w-16 h-16  rounded-full shadow-inner " /> */}
 
 
 
