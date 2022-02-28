@@ -5,7 +5,7 @@ const Hero=() => {
     return (
         <div className='grid grid-cols-1 sm:grid-cols-2 gap-4 justify-items-center sm:py-16 pt-16' >
             <div className='self-center'>
-                <h1 className='text-3xl font-Bungee'>
+                <h1 className='text-3xl font-Bungee2'>
                     Hi,
 
                 </h1>
@@ -15,7 +15,7 @@ const Hero=() => {
                 <p className='text-2xl font-Bungee2'>
                     Software Developer.
                 </p>
-                <p className='text-xs font-Bungee2 '>
+                <p className='text-xs font-Bungee2 font-light '>
                     Front-end Engineer | Swift | Flutter
                 </p>
 

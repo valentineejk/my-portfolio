@@ -5,7 +5,8 @@ module.exports={
   theme: {
     fontFamily: {
       Bungee: ['Bungee Inline','cursive'],
-      Bungee2: ['Bungee Hairline','cursive'],
+      Bungee2: ['Source Code Pro','monospace'],
+
 
     },
     container: {

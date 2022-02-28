@@ -27,7 +27,7 @@ const Projects=() => {
         <div>
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 ">
                 <div className="max-w-2xl mx-auto    lg:max-w-none">
-                    <h2 className="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl text-center sm:pb-6 pb-6 py-16 font-Bungee">Projects</h2>
+                    <h2 className="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl text-center sm:pb-6 pb-6 py-16 font-Bungee2">Projects</h2>
 
                     <div className="mt-6 space-y-12 lg:space-y-0 lg:grid lg:grid-cols-3 lg:gap-x-6 sm:pb-10 pb-8  ">
                         {callouts.map((callout) => (
@@ -39,13 +39,13 @@ const Projects=() => {
                                         className="w-full h-full object-center object-cover"
                                     />
                                 </div>
-                                <h3 className="mt-6 font-semibold text-sm text-gray-800 font-Bungee2">
+                                <h3 className="mt-6 font-light text-sm text-gray-800 font-Bungee2">
                                     <a href={callout.href}>
                                         <span className="absolute inset-0" />
                                         {callout.name}
                                     </a>
                                 </h3>
-                                <p className="text-base font-semibold text-gray-900 font-Bungee">{callout.description}</p>
+                                <p className="text-base font-semibold text-gray-900 font-Bungee2 ">{callout.description}</p>
                             </div>
                         ))}
                     </div>
