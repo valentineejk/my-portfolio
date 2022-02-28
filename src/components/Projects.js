@@ -39,7 +39,7 @@ const Projects=() => {
                                         className="w-full h-full object-center object-cover"
                                     />
                                 </div>
-                                <h3 className="mt-6 text-sm text-gray-600 font-Bungee2">
+                                <h3 className="mt-6 font-semibold text-sm text-gray-800 font-Bungee2">
                                     <a href={callout.href}>
                                         <span className="absolute inset-0" />
                                         {callout.name}
