@@ -4,6 +4,8 @@ import {ReactComponent as Swift} from '../img/swift.svg';
 import {ReactComponent as Flutter} from '../img/flutter.svg';
 import {ReactComponent as Reactj} from '../img/react.svg';
 import {ReactComponent as Figma} from '../img/figma.svg';
+import {ReactComponent as Firebae} from '../img/fireb.svg';
+
 
 
 
@@ -18,11 +20,12 @@ const Technicals=() => {
 
                 </div>
 
-                <div className=' flex justify-center flex-row gap-4 h-16 sm:py-16 py-16' >
+                <div className=' grid grid-cols-4 gap-2 h-16 sm:py-16 py-16' >
                     <Swift className=" sm:w-24 sm:h-24  w-24 h-14 rounded-full shadow-inner hover:shadow-xl " />
                     <Flutter className="sm:w-24 sm:h-24 w-24 h-14  rounded-full shadow-inner hover:shadow-xl" />
                     <Reactj className="sm:w-24 sm:h-24 w-24 h-14  rounded-full shadow-inner hover:shadow-xl" />
                     <Figma className=" sm:w-24 sm:h-24 w-24 h-14  rounded-full shadow-inner hover:shadow-xl" />
+
                 </div>
             </div>
 
