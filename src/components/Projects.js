@@ -27,9 +27,9 @@ const Projects=() => {
         <div>
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 ">
                 <div className="max-w-2xl mx-auto    lg:max-w-none">
-                    <h2 className="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl text-center sm:py-16 font-Bungee">Projects</h2>
+                    <h2 className="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl text-center sm:pb-6 pb-6 py-16 font-Bungee">Projects</h2>
 
-                    <div className="mt-6 space-y-12 lg:space-y-0 lg:grid lg:grid-cols-3 lg:gap-x-6 sm:py-16  ">
+                    <div className="mt-6 space-y-12 lg:space-y-0 lg:grid lg:grid-cols-3 lg:gap-x-6 sm:pb-10 pb-8  ">
                         {callouts.map((callout) => (
                             <div key={callout.name} className="group relative">
                                 <div className="relative w-full h-80 bg-white rounded-lg overflow-hidden group-hover:opacity-75 sm:aspect-w-2 sm:aspect-h-1 sm:h-64 lg:aspect-w-1 lg:aspect-h-1 ">
