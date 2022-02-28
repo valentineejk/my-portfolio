@@ -22,14 +22,14 @@ const Technicals=() => {
             <div className="max-w-2xl mx-auto px-4 py-16 sm:px-6  lg:max-w-7xl">
 
                 <div className=' grid sm:grid-cols-7 grid-cols-3 gap-4 place-content-center h-16 sm:py-8  py-8' >
-                    <Swift className=" sm:w-28 sm:h-28  w-16 h-16 sm:rounded-full rounded-full shadow-inner hover:shadow-xl " />
-                    <Flutter className="sm:w-28 sm:h-28 w-16 h-16  rounded-full shadow-inner hover:shadow-xl" />
-                    <Reactj className="sm:w-28 sm:h-28 w-16 h-16  rounded-full shadow-inner hover:shadow-xl" />
-                    <Tailwin className=" sm:w-28 sm:h-28 w-16 h-16  rounded-full shadow-inner hover:shadow-xl" />
+                    <Swift className=" sm:w-28 sm:h-28  w-16 h-16 sm:rounded-full rounded-full shadow-inner  " />
+                    <Flutter className="sm:w-28 sm:h-28 w-16 h-16  rounded-full shadow-inner " />
+                    <Reactj className="sm:w-28 sm:h-28 w-16 h-16  rounded-full shadow-inner " />
+                    <Tailwin className=" sm:w-28 sm:h-28 w-16 h-16  rounded-full shadow-inner " />
 
-                    <Figma className=" sm:w-28 sm:h-28 w-16 h-16  rounded-full shadow-inner hover:shadow-xl" />
-                    <Firebee className=" sm:w-28 sm:h-28 w-16 h-16  rounded-full shadow-inner hover:shadow-xl" />
-                    <Nodejee className=" sm:w-28 sm:h-28 w-16 h-16  rounded-full shadow-inner hover:shadow-xl" />
+                    <Figma className=" sm:w-28 sm:h-28 w-16 h-16  rounded-full shadow-inner " />
+                    <Firebee className=" sm:w-28 sm:h-28 w-16 h-16  rounded-full shadow-inner " />
+                    <Nodejee className=" sm:w-28 sm:h-28 w-16 h-16  rounded-full shadow-inner " />
 
 
 
