@@ -16,7 +16,7 @@ const Hero=() => {
                     Software Developer.
                 </p>
                 <p className='text-xs font-Bungee2 font-light '>
-                    Front-end Engineer | SwiftUI
+                    Flutter | SwiftUI | React
                 </p>
 
 
