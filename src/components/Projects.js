@@ -6,6 +6,13 @@ const callouts=[
         imageSrc: 'https://i.ibb.co/gwJLx7h/48411-E71-E9-F7-4-B59-87-E5-83-BD14-ADE8-B4.png',
         imageAlt: 'flutterapp.',
         href: 'https://apps.apple.com/ng/app/miskay/id1514919318',
+    },
+    {
+        name: 'My Portfolio',
+        description: 'React | Tailwind CSS',
+        imageSrc: 'https://i.ibb.co/NrLhXWD/Screenshot-2022-03-04-at-22-28-02.png',
+        imageAlt: 'React Portfolio.',
+        href: 'http://boring-hodgkin-6bbf3e.netlify.app',
     }
 ]
 const Projects=() => {
