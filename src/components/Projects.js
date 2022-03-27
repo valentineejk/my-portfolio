@@ -8,11 +8,11 @@ const callouts=[
         href: 'https://apps.apple.com/ng/app/miskay/id1514919318',
     },
     {
-        name: 'My Portfolio',
-        description: 'React | Tailwind CSS',
-        imageSrc: 'https://i.ibb.co/NrLhXWD/Screenshot-2022-03-04-at-22-28-02.png',
-        imageAlt: 'React Portfolio.',
-        href: 'http://boring-hodgkin-6bbf3e.netlify.app',
+        name: 'Random Starwars Character',
+        description: 'React | Tailwind CSS | jsonApi',
+        imageSrc: 'https://i.ibb.co/pPS95xB/React-App.png',
+        imageAlt: 'Random Starwars Character.',
+        href: 'https://starwarsnames-app.vercel.app/',
     }
 ]
 const Projects=() => {
