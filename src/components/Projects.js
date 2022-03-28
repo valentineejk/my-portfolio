@@ -9,14 +9,14 @@ const callouts=[
     },
     {
         name: 'Random Starwars Characters',
-        description: 'React | Tailwind CSS',
+        description: 'React | Tailwind CSS | TypeScript',
         imageSrc: 'https://i.ibb.co/pPS95xB/React-App.png',
         imageAlt: 'Random Starwars Characters',
         href: 'https://starwarsnames-app.vercel.app/',
     },
     {
         name: 'Movie Land',
-        description: 'React',
+        description: 'React | TypeScript',
         imageSrc: 'https://i.ibb.co/y0vXNFh/React-App-1.png',
         imageAlt: 'Movies',
         href: 'https://sparkling-zuccutto-a81395.netlify.app',
