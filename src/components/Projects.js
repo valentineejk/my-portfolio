@@ -8,12 +8,20 @@ const callouts=[
         href: 'https://apps.apple.com/ng/app/miskay/id1514919318',
     },
     {
-        name: 'Random Starwars Character',
-        description: 'React | Tailwind CSS | jsonApi',
+        name: 'Random Starwars Characters',
+        description: 'React | Tailwind CSS',
         imageSrc: 'https://i.ibb.co/pPS95xB/React-App.png',
-        imageAlt: 'Random Starwars Character.',
+        imageAlt: 'Random Starwars Characters',
         href: 'https://starwarsnames-app.vercel.app/',
-    }
+    },
+    {
+        name: 'Movie Land',
+        description: 'React',
+        imageSrc: 'https://i.ibb.co/y0vXNFh/React-App-1.png',
+        imageAlt: 'Movies',
+        href: 'https://sparkling-zuccutto-a81395.netlify.app',
+    },
+
 ]
 const Projects=() => {
     return (
