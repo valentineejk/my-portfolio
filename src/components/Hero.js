@@ -16,7 +16,7 @@ const Hero=() => {
                     Software Developer.
                 </p>
                 <p className='text-xs font-Bungee2 font-light '>
-                    React | React Native | Flutter
+                    React | Flutter
                 </p>
 
 

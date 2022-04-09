@@ -1,8 +1,8 @@
 import React from 'react'
 const callouts=[
     {
-        name: 'mkb',
-        description: 'Flutter eCommerce app',
+        name: 'eCommerce App',
+        description: 'Flutter Framework | WooCommerce API',
         imageSrc: 'https://i.ibb.co/gwJLx7h/48411-E71-E9-F7-4-B59-87-E5-83-BD14-ADE8-B4.png',
         imageAlt: 'flutterapp.',
         href: 'https://apps.apple.com/ng/app/miskay/id1514919318',
