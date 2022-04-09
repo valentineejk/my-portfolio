@@ -21,6 +21,13 @@ const callouts=[
         imageAlt: 'Movies',
         href: 'https://sparkling-zuccutto-a81395.netlify.app',
     },
+    {
+        name: 'Miskay Boutique eCommerce Store',
+        description: 'WordPress | WooCommerce',
+        imageSrc: 'https://i.ibb.co/t2KW9Kp/Screenshot-2022-04-09-at-18-08-54.png',
+        imageAlt: 'Movies',
+        href: 'https://miskayboutique.com/',
+    },
 
 ]
 const Projects=() => {
