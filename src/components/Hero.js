@@ -1,7 +1,6 @@
 import React from 'react'
 import prof from '../img/PROF.PNG';
-
-const Hero=() => {
+const Hero = () => {
     return (
         <div className='grid grid-cols-1 sm:grid-cols-2 gap-4 justify-items-center sm:py-16 pt-16' >
             <div className='self-center'>
@@ -16,14 +15,23 @@ const Hero=() => {
                     Software Developer.
                 </p>
                 <p className='text-xs font-Bungee2 font-light '>
-                    React | React Native
+                    React | React Native | SwiftUI
                 </p>
 
-
+                <button href='https://docs.google.com/document/d/1W8J3kPHe8Sfh4fAB9Z84bHq_v62Ph_PyMiKOmp7mpdw/edit?usp=sharing' className='
+              my-6
+bg-stone-800 hover:shadow-lg
+ hover:shadow-red-500/50       
+        w-40
+              h-10
+              rounded-lg
+              font-Bungee2
+              text-white
+                '>Resume</button>
             </div>
 
 
-            <div> <img src={prof} alt="profile" /></div>
+            <div> <img src={ prof } alt="profile" /></div>
 
         </div>
 
