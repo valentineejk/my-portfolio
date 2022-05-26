@@ -17,8 +17,8 @@ const Hero = () => {
                 <p className='text-xs font-Bungee2 font-light '>
                     React | React Native | SwiftUI
                 </p>
-
-                <button href='https://docs.google.com/document/d/1W8J3kPHe8Sfh4fAB9Z84bHq_v62Ph_PyMiKOmp7mpdw/edit?usp=sharing' className='
+                <a href="https://docs.google.com/document/d/1W8J3kPHe8Sfh4fAB9Z84bHq_v62Ph_PyMiKOmp7mpdw/edit?usp=sharing" >
+                    <button className='
               my-6
 bg-stone-800 hover:shadow-lg
  hover:shadow-red-500/50       
@@ -28,6 +28,7 @@ bg-stone-800 hover:shadow-lg
               font-Bungee2
               text-white
                 '>Resume</button>
+                </a>
             </div>
 
 
