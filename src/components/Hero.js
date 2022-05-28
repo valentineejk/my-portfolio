@@ -15,7 +15,7 @@ const Hero = () => {
                     Software Developer.
                 </p>
                 <p className='text-xs font-Bungee2 font-light '>
-                    React | Flutter | SwiftUI
+                    React | React Native | SwiftUI
                 </p>
                 <a href="https://docs.google.com/document/d/1W8J3kPHe8Sfh4fAB9Z84bHq_v62Ph_PyMiKOmp7mpdw/edit?usp=sharing" >
                     <button className='
