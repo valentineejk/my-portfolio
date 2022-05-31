@@ -8,11 +8,11 @@ const callouts = [
         href: 'https://collectio-api.vercel.app/',
     },
     {
-        name: 'Random Starwars Characters',
-        description: 'React | Tailwind CSS | TypeScript',
-        imageSrc: 'https://i.ibb.co/pPS95xB/React-App.png',
-        imageAlt: 'Random Starwars Characters',
-        href: 'https://starwarsnames-app.vercel.app/',
+        name: 'GoalSetter App',
+        description: 'React | Mongodb | Redux',
+        imageSrc: 'https://i.ibb.co/N7Wrm5V/Goal-Setter-App.png',
+        imageAlt: 'Goal App',
+        href: 'https://goalsetterapi1.herokuapp.com/',
     },
     {
         name: 'Movie Land',
