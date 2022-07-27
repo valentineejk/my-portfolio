@@ -1,6 +1,6 @@
 import React from 'react'
 // import Swift from '../img/swift.png';
-import { ReactComponent as Aws } from '../img/aws.svg';
+import { ReactComponent as Golang } from '../img/golan.svg';
 import { ReactComponent as Reactj } from '../img/react.svg';
 import { ReactComponent as Figma } from '../img/figma.svg';
 import { ReactComponent as Firebee } from '../img/firebee.svg';
@@ -28,8 +28,7 @@ const Technicals = () => {
                     <Tailwin className=" sm:w-28 sm:h-28 w-16 h-16  rounded-full shadow-inner " />
                     <Firebee className=" sm:w-28 sm:h-28 w-16 h-16  rounded-full shadow-inner " />
                     <Flutter className=" sm:w-28 sm:h-28 w-16 h-16  rounded-full shadow-inner " />
-
-                    <Aws className=" sm:w-28 sm:h-28 w-16 h-16  rounded-full shadow-inner " />
+                    <Golang className=" sm:w-28 sm:h-28 w-16 h-16  rounded-full shadow-inner " />
                     <Figma className=" sm:w-28 sm:h-28 w-16 h-16  rounded-full shadow-inner " />
 
                     {/* <Aws className=" sm:w-28 sm:h-28 w-16 h-16  rounded-full shadow-inner " /> */ }

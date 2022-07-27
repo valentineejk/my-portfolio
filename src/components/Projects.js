@@ -1,12 +1,6 @@
 import React from 'react'
 const callouts = [
-    {
-        name: 'Collectio-api',
-        description: 'Nextjs Restaurants Api',
-        imageSrc: 'https://i.ibb.co/ws7yfnR/Collectio-App.png',
-        imageAlt: 'collectioapi',
-        href: 'https://collectio-api.vercel.app/',
-    },
+  
     {
         name: 'GoalSetter App',
         description: 'React | Mongodb | Redux',
@@ -14,20 +8,7 @@ const callouts = [
         imageAlt: 'Goal App',
         href: 'https://goalsetterapi1.herokuapp.com/',
     },
-    {
-        name: 'Movie Land',
-        description: 'React | TypeScript',
-        imageSrc: 'https://i.ibb.co/y0vXNFh/React-App-1.png',
-        imageAlt: 'Movies',
-        href: 'https://sparkling-zuccutto-a81395.netlify.app',
-    },
-    {
-        name: 'Miskay Boutique eCommerce Store',
-        description: 'WordPress | WooCommerce',
-        imageSrc: 'https://i.ibb.co/t2KW9Kp/Screenshot-2022-04-09-at-18-08-54.png',
-        imageAlt: 'Movies',
-        href: 'https://miskayboutique.com/',
-    },
+ 
 
 ]
 const Projects = () => {
