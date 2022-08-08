@@ -8,7 +8,13 @@ const callouts = [
         imageAlt: 'Goal App',
         href: 'https://goalsetterapi1.herokuapp.com/',
     },
- 
+   {
+        name: 'Ecommerce App',
+        description: 'Flutter | Firebase | Woocommerce',
+        imageSrc: 'https://i.ibb.co/gwJLx7h/48411-E71-E9-F7-4-B59-87-E5-83-BD14-ADE8-B4.png',
+        imageAlt: 'Ecommerce app App',
+        href: 'https://apps.apple.com/ng/app/miskay/id1514919318',
+    },
 
 ]
 const Projects = () => {
