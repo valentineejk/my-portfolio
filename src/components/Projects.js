@@ -8,6 +8,13 @@ const callouts = [
         imageAlt: 'Goal App',
         href: 'https://goalsetterapi1.herokuapp.com/',
     },
+       {
+        name: 'Nextjs API with Mongodb',
+        description: 'Nextjs | Mongodb | APIs',
+        imageSrc: 'https://i.ibb.co/nsrkL1d/localhost-3000.png',
+        imageAlt: 'Nextjs',
+        href: 'https://chillspot-psi.vercel.app/',
+    },
    {
         name: 'Ecommerce App',
         description: 'Flutter | Firebase | Woocommerce',
