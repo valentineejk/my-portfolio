@@ -1,11 +1,11 @@
-module.exports={
+module.exports = {
   content: [
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
     fontFamily: {
-      Bungee: ['Bungee Inline','cursive'],
-      Bungee2: ['Source Code Pro','monospace'],
+      Bungee: ['Bungee Inline', 'cursive'],
+      Bungee2: ['Source Code Pro', 'monospace'],
 
 
     },
@@ -32,6 +32,6 @@ module.exports={
   },
   plugins: [
     // ...
-    require('@tailwindcss/aspect-ratio'),
+    require('@tailwindcss/aspect-ratio', '@tailwindcss/line-clamp'),
   ],
 }

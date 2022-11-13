@@ -15,9 +15,9 @@ const Hero = () => {
                     Software Developer.
                 </p>
                 <p className='text-xs font-Bungee2 font-light '>
-                    React | NextJs | Flutter
+                    React | Flutter
                 </p>
-                <a href="https://docs.google.com/document/d/1W8J3kPHe8Sfh4fAB9Z84bHq_v62Ph_PyMiKOmp7mpdw/edit?usp=sharing" >
+                <a href="https://docs.google.com/document/d/1EbnsdaB0v52x3RfdkSJyBoZStEMx5Jo8QghPrIYseqA/edit?usp=sharing" >
                     <button className='
               my-6
 bg-stone-800 hover:shadow-lg
